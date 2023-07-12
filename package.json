@@ -2,6 +2,10 @@
   "name": "extract-files",
   "displayName": "Extract Files",
   "description": "Extracts the content of a folder structure and copies it to the clipboard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickiel/ExtractFiles.git"
+  },
   "version": "0.0.1",
   "publisher": "Patrickiel",
   "engines": {
