@@ -1,8 +1,9 @@
 {
-  "name": "ai-extractor",
-  "displayName": "ai extractor",
-  "description": "extracts the content of a folder structure and copies it to the clipboard",
+  "name": "extract-files",
+  "displayName": "Extract Files",
+  "description": "Extracts the content of a folder structure and copies it to the clipboard",
   "version": "0.0.1",
+  "publisher": "Patrickiel",
   "engines": {
     "vscode": "^1.80.0"
   },
